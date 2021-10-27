@@ -100,7 +100,7 @@ namespace DBProject
 
 				if (objDAL.DeleteDoctor(Convert.ToInt32(id)) == 1)
 				{
-					Msg.Text = " Doctor No: " + id + " Deleted";
+					Msg.Text = " Doctor Deleted";
 					LoadGrid("", "DOCTOR");
 				}
 				else
