@@ -210,7 +210,7 @@
                                     <div class="form-top-left">
 	                        		
                                         <h3>Login to our Website</h3>
-	                            		<p>Enter Email and Password to log in:</p>
+	                            		<p>Enter Email and Password to login:</p>
 
 	                        		</div>
 	                        		
