@@ -196,7 +196,7 @@
                             
                             <div class="description">
                             	<p>
-	                            	This is a free <strong>"Login and Registration form"</strong> for Health Care Clinic. 
+	                            	This is a free <strong>"Forma de registro"</strong> for Health Care Clinic. 
                             	</p>                            
                             </div>
                         </div>
